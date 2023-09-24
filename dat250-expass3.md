@@ -30,8 +30,13 @@
 ![image](https://github.com/587851/dat250assignment1/assets/69521897/24bf5d14-b06e-4376-b095-882ea1bba343)
 ![image](https://github.com/587851/dat250assignment1/assets/69521897/b4ae0c9f-1f75-4a8b-96ce-b34a7186e96a)
 
+My map-reduce operation:
 ![image](https://github.com/587851/dat250assignment1/assets/69521897/2fe0591c-a759-4bf5-8dec-eb90bdc8be77)
 ![image](https://github.com/587851/dat250assignment1/assets/69521897/a569b245-609d-4029-8760-f2e2f058bcc3)
+
+My implemented map-reduce operation have four different attriubutes for each document which is ID, itemprice, total sold and total sold in price. This operation is usefull for when you want to see how much you have sold of one product and the total sum you have sold it for. 
+
+I had no major issues during the expass.
 
 
 
